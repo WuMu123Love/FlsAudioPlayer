@@ -1,0 +1,16 @@
+PODS:
+  - FlsAudioPlayer (0.1.0)
+
+DEPENDENCIES:
+  - FlsAudioPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  FlsAudioPlayer:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FlsAudioPlayer: c4eb3e22eb5e66cdfc8d028c52e58e965c79c1d8
+
+PODFILE CHECKSUM: 6c83f94994f83b8254aaae806b3a37c5caa96313
+
+COCOAPODS: 1.4.0

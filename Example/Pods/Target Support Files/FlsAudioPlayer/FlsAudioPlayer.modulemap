@@ -1,0 +1,6 @@
+framework module FlsAudioPlayer {
+  umbrella header "FlsAudioPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

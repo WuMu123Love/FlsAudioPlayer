@@ -1,0 +1,22 @@
+{
+  "name": "FlsAudioPlayer",
+  "version": "0.1.0",
+  "summary": "A short description of FlsAudioPlayer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1361825681@qq.com/FlsAudioPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1361825681@qq.com": "wumuanhuihf@163.com"
+  },
+  "source": {
+    "git": "https://github.com/1361825681@qq.com/FlsAudioPlayer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FlsAudioPlayer/Classes/**/*"
+}
